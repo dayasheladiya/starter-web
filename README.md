@@ -10,3 +10,5 @@ This is introduction phase
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+##copyright
