@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ##copyright
+All rights reserved
