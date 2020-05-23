@@ -7,7 +7,7 @@ This is introduction phase
 
 ## Purpose
 
-Sample website with plenty of files for demos
+To learn git and github with all commands
 
 ## How to contribute
 
