@@ -3,7 +3,11 @@
  Copyright 2014 Git training 
  --->
 <head>
-	<title>Stash Branch Example </title>
+<<<<<<< HEAD
+	<title>Simple Html Example repository changes </title>
+=======
+	<title>Simple Html Example for Merging brnaches</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,11 +21,19 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
 			This is merge and conflict operation
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Company since 2014</p>
+=======
+			This is Git Training
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Since 1993</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
